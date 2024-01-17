@@ -1,0 +1,16 @@
+name: mbb121L
+channels:
+  - conda-forge
+  - anaconda
+  - bioconda
+  - nodefaults
+dependencies:
+  - python
+  - jupyterlab
+  - notebook
+  - pandas
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - ipywidgets
+  - scipy
