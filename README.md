@@ -32,3 +32,6 @@ Step-by-step instructions to install Python and Jupyter notebooks.
     - If you are a Windows user, you will have to do this in the Miniforge Prompt. Find this by searching for it in your Start menu
 
 3. Test it out by opening a Jupyter notebook
+
+   - Activate the environment: `conda activate mbb121L`
+   - Start a Jupyter notebook by running: `jupyter notebook`
