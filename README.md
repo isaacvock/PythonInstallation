@@ -4,7 +4,7 @@ Step-by-step instructions to install Python and Jupyter notebooks.
 ## Quickstart
 
 1. Install Miniforge 3
-      - For the Mac (or Linux??) users, open a terminal and run:
+      - For the Mac (or Linux??) users, open a terminal and run these two lines of code (one line at a time!):
 
     ```
     curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
